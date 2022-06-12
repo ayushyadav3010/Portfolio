@@ -1,0 +1,62 @@
+*{
+    margin: 10;
+    padding:0;
+     box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    justify-content: centre ;
+    align-items: right;
+    background-color: gray;
+    position: sticky;
+    top: 0;
+}
+
+body{
+    background-color:#ffd966;
+}
+h1 {
+text-align:left;
+}
+
+p {
+font-family: verdana;
+font-size: 20px;
+}
+h2 {
+color:black;
+text-align:center;
+}
+p {
+font-family: verdana;
+font-size: 20px;
+
+}
+
+.headerTextLeft {
+    font-family:monospace;
+    margin: 20px 0px 5px 20px;
+    float: left!important;
+}
+
+.headerTextRight {
+    font-family:monospace!important;
+    margin: 20px 0px 5px 20px;
+    float: right!important;
+}
+
+.table {
+    display: table;
+    width: 100%;
+  }
+  .tr {
+    display: table-row;
+    width: 100%;
+  }
+
+  .gradeInfo{
+    text-align:center; 
+    border: 5px solid antiquewhite;
+    height: 35px; 
+    background-color: antiquewhite;
+  }
