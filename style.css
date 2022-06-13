@@ -60,3 +60,37 @@ font-size: 20px;
     height: 35px; 
     background-color: antiquewhite;
   }
+  .movingtag{
+    behavior: unset;
+    direction: ltr;
+    border: 5px solid antiquewhite;
+    height: 35px;
+    background-color: antiquewhite;
+    font-size: 22px;
+    
+    
+  }
+  .SecMarks{
+    font-size:20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 20px 0px 5px 20px;
+
+  }
+.HigherSecMarks{
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 20px 0px 5px 20px;
+ 
+}
+.GraduationMarks{
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 20px 0px 5px 20px;
+
+}
+.Skill{
+  text-align:center; 
+    border: 5px solid antiquewhite;
+    height: 35px; 
+    background-color: antiquewhite;
+  }
