@@ -103,3 +103,17 @@ img {
     margin: 20px 0px 5px 20px;
 
   }
+  .Pro{
+    font-size: 18px;
+    font-family:fantasy;
+    margin: 20px 0px 5px 20px;
+
+
+  }
+  .Pj{
+    text-align:center; 
+    border: 5px solid antiquewhite;
+    height: 35px; 
+    background-color: antiquewhite;
+  }
+  
