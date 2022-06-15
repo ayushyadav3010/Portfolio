@@ -34,7 +34,7 @@ font-size: 20px;
 }
 
 .headerTextLeft {
-    font-family:monospace;
+    font-family:cursive;
     margin: 20px 0px 5px 20px;
     float: left!important;
 }
@@ -116,4 +116,5 @@ img {
     height: 35px; 
     background-color: antiquewhite;
   }
+ 
   
